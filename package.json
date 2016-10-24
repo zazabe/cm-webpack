@@ -1,0 +1,15 @@
+{
+  "name": "cm-webpack",
+  "description": "Webpack for CM framework.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cargomedia/cm-webpack",
+  "author": "Cargomedia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cargomedia/cm-webpack.git"
+  },
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
+}
